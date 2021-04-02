@@ -1,6 +1,2 @@
-paddlepaddle
-paddlehub
-visualdl
-paddleseg
-paddlenlp
-paddleocr
+paddlepaddle==1.8.4
+pgl==1.2.0
